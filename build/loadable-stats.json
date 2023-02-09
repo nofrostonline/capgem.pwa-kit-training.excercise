@@ -1,0 +1,1454 @@
+{
+  "name": "client",
+  "hash": "4a0cb230686489f4c324",
+  "publicPath": "/mobify/bundle/development/",
+  "outputPath": "/Users/dhollod/dev/pwa/2023-pwa-kit/pwa-kit-starter-project/build",
+  "assetsByChunkName": {
+    "main": [
+      "main.js"
+    ],
+    "pages-home": [
+      "pages-home.js"
+    ],
+    "pages-login": [
+      "pages-login.js"
+    ],
+    "capgemini-content-assets-content-search": [
+      "capgemini-content-assets-content-search.js"
+    ],
+    "capgemini-content-assets-content-details": [
+      "capgemini-content-assets-content-details.js"
+    ],
+    "pages-registration": [
+      "pages-registration.js"
+    ],
+    "pages-reset-password": [
+      "pages-reset-password.js"
+    ],
+    "pages-account": [
+      "pages-account.js"
+    ],
+    "pages-cart": [
+      "pages-cart.js"
+    ],
+    "pages-checkout": [
+      "pages-checkout.js"
+    ],
+    "pages-checkout-confirmation": [
+      "pages-checkout-confirmation.js"
+    ],
+    "pages-login-redirect": [
+      "pages-login-redirect.js"
+    ],
+    "pages-product-detail": [
+      "pages-product-detail.js"
+    ],
+    "pages-product-list": [
+      "pages-product-list.js"
+    ],
+    "pages-account-wishlist": [
+      "pages-account-wishlist.js"
+    ],
+    "pages-page-not-found": [
+      "pages-page-not-found.js"
+    ],
+    "vendor": [
+      "vendor.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "vendor.js",
+      "size": 4544290,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "vendor.js.map"
+        }
+      },
+      "chunkNames": [
+        "vendor"
+      ],
+      "chunkIdHints": [
+        "vendor"
+      ],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "vendor"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "main.js",
+      "size": 979920,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "main.js.map"
+        }
+      },
+      "chunkNames": [
+        "main"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "main"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-account.js",
+      "size": 164316,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-account.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-account"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-account"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-checkout.js",
+      "size": 151077,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-checkout.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-checkout"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-checkout"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-product-list.js",
+      "size": 115350,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-product-list.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-product-list"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-product-list"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc.js",
+      "size": 75663,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_en-XB_json.js",
+      "size": 68784,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_en-XB_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_partials_product-view_index_jsx.js",
+      "size": 63338,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "app_partials_product-view_index_jsx.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "app_partials_product-view_index_jsx"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-cart.js",
+      "size": 59170,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-cart.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-cart"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-cart"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-checkout-confirmation.js",
+      "size": 52609,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-checkout-confirmation.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-checkout-confirmation"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-checkout-confirmation"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_ja-JP_json.js",
+      "size": 48006,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_ja-JP_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_fr-FR_json.js",
+      "size": 45449,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_fr-FR_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_de-DE_json.js",
+      "size": 45065,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_de-DE_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_es-MX_json.js",
+      "size": 44786,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_es-MX_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_ko-KR_json.js",
+      "size": 44551,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_ko-KR_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_it-IT_json.js",
+      "size": 43672,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_it-IT_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_pt-BR_json.js",
+      "size": 43633,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_pt-BR_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_components_order-summary_index_jsx.js",
+      "size": 43624,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "app_components_order-summary_index_jsx.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "app_components_order-summary_index_jsx"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_en-GB_json.js",
+      "size": 42809,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_en-GB_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_en-US_json.js",
+      "size": 42240,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_en-US_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_zh-TW_json.js",
+      "size": 42153,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_zh-TW_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_translations_compiled_zh-CN_json.js",
+      "size": 42131,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "chunks": [
+        "app_translations_compiled_zh-CN_json"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js",
+      "size": 41044,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-home.js",
+      "size": 37603,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-home.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-home"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-home"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-account-wishlist.js",
+      "size": 37386,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-account-wishlist.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-account-wishlist"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-account-wishlist"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c.js",
+      "size": 34978,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-product-detail.js",
+      "size": 24286,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-product-detail.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-product-detail"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-product-detail"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-reset-password.js",
+      "size": 9999,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-reset-password.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-reset-password"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-reset-password"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-login.js",
+      "size": 7950,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-login.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-login"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-login"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-page-not-found.js",
+      "size": 7481,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-page-not-found.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-page-not-found"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-page-not-found"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-registration.js",
+      "size": 7134,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-registration.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-registration"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-registration"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "capgemini-content-assets-content-search.js",
+      "size": 5703,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "capgemini-content-assets-content-search.js.map"
+        }
+      },
+      "chunkNames": [
+        "capgemini-content-assets-content-search"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "capgemini-content-assets-content-search"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "capgemini-content-assets-content-details.js",
+      "size": 5174,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "capgemini-content-assets-content-details.js.map"
+        }
+      },
+      "chunkNames": [
+        "capgemini-content-assets-content-details"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "capgemini-content-assets-content-details"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "pages-login-redirect.js",
+      "size": 2854,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "pages-login-redirect.js.map"
+        }
+      },
+      "chunkNames": [
+        "pages-login-redirect"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "pages-login-redirect"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "_1242.js",
+      "size": 284,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "_1242.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "_1242"
+      ],
+      "auxiliaryChunks": []
+    },
+    {
+      "type": "asset",
+      "name": "_e655.js",
+      "size": 284,
+      "emitted": false,
+      "comparedForEmit": false,
+      "cached": true,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "_e655.js.map"
+        }
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 1,
+      "chunks": [
+        "_e655"
+      ],
+      "auxiliaryChunks": []
+    }
+  ],
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        "vendor",
+        "main"
+      ],
+      "assets": [
+        {
+          "name": "vendor.js"
+        },
+        {
+          "name": "main.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-home": {
+      "name": "pages-home",
+      "chunks": [
+        "pages-home"
+      ],
+      "assets": [
+        {
+          "name": "pages-home.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-login": {
+      "name": "pages-login",
+      "chunks": [
+        "pages-login"
+      ],
+      "assets": [
+        {
+          "name": "pages-login.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "capgemini-content-assets-content-search": {
+      "name": "capgemini-content-assets-content-search",
+      "chunks": [
+        "capgemini-content-assets-content-search"
+      ],
+      "assets": [
+        {
+          "name": "capgemini-content-assets-content-search.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "capgemini-content-assets-content-details": {
+      "name": "capgemini-content-assets-content-details",
+      "chunks": [
+        "capgemini-content-assets-content-details"
+      ],
+      "assets": [
+        {
+          "name": "capgemini-content-assets-content-details.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-registration": {
+      "name": "pages-registration",
+      "chunks": [
+        "pages-registration"
+      ],
+      "assets": [
+        {
+          "name": "pages-registration.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-reset-password": {
+      "name": "pages-reset-password",
+      "chunks": [
+        "pages-reset-password"
+      ],
+      "assets": [
+        {
+          "name": "pages-reset-password.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-account": {
+      "name": "pages-account",
+      "chunks": [
+        "vendor",
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1",
+        "app_partials_product-view_index_jsx",
+        "app_components_order-summary_index_jsx",
+        "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c",
+        "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc",
+        "pages-account-wishlist",
+        "pages-account"
+      ],
+      "assets": [
+        {
+          "name": "vendor.js"
+        },
+        {
+          "name": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js"
+        },
+        {
+          "name": "app_partials_product-view_index_jsx.js"
+        },
+        {
+          "name": "app_components_order-summary_index_jsx.js"
+        },
+        {
+          "name": "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c.js"
+        },
+        {
+          "name": "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc.js"
+        },
+        {
+          "name": "pages-account-wishlist.js"
+        },
+        {
+          "name": "pages-account.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 8,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-cart": {
+      "name": "pages-cart",
+      "chunks": [
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1",
+        "app_partials_product-view_index_jsx",
+        "app_components_order-summary_index_jsx",
+        "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c",
+        "pages-cart"
+      ],
+      "assets": [
+        {
+          "name": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js"
+        },
+        {
+          "name": "app_partials_product-view_index_jsx.js"
+        },
+        {
+          "name": "app_components_order-summary_index_jsx.js"
+        },
+        {
+          "name": "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c.js"
+        },
+        {
+          "name": "pages-cart.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 5,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-checkout": {
+      "name": "pages-checkout",
+      "chunks": [
+        "vendor",
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1",
+        "app_components_order-summary_index_jsx",
+        "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc",
+        "pages-checkout"
+      ],
+      "assets": [
+        {
+          "name": "vendor.js"
+        },
+        {
+          "name": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js"
+        },
+        {
+          "name": "app_components_order-summary_index_jsx.js"
+        },
+        {
+          "name": "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc.js"
+        },
+        {
+          "name": "pages-checkout.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 5,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-checkout-confirmation": {
+      "name": "pages-checkout-confirmation",
+      "chunks": [
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1",
+        "pages-checkout-confirmation"
+      ],
+      "assets": [
+        {
+          "name": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js"
+        },
+        {
+          "name": "pages-checkout-confirmation.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-login-redirect": {
+      "name": "pages-login-redirect",
+      "chunks": [
+        "pages-login-redirect"
+      ],
+      "assets": [
+        {
+          "name": "pages-login-redirect.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-product-detail": {
+      "name": "pages-product-detail",
+      "chunks": [
+        "app_partials_product-view_index_jsx",
+        "pages-product-detail"
+      ],
+      "assets": [
+        {
+          "name": "app_partials_product-view_index_jsx.js"
+        },
+        {
+          "name": "pages-product-detail.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-product-list": {
+      "name": "pages-product-list",
+      "chunks": [
+        "pages-product-list"
+      ],
+      "assets": [
+        {
+          "name": "pages-product-list.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-account-wishlist": {
+      "name": "pages-account-wishlist",
+      "chunks": [
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1",
+        "app_partials_product-view_index_jsx",
+        "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c",
+        "pages-account-wishlist"
+      ],
+      "assets": [
+        {
+          "name": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js"
+        },
+        {
+          "name": "app_partials_product-view_index_jsx.js"
+        },
+        {
+          "name": "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c.js"
+        },
+        {
+          "name": "pages-account-wishlist.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 4,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "pages-page-not-found": {
+      "name": "pages-page-not-found",
+      "chunks": [
+        "pages-page-not-found"
+      ],
+      "assets": [
+        {
+          "name": "pages-page-not-found.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 1,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "main",
+      "files": [
+        "main.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_de-DE_json",
+      "files": [
+        "app_translations_compiled_de-DE_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_en-GB_json",
+      "files": [
+        "app_translations_compiled_en-GB_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_en-US_json",
+      "files": [
+        "app_translations_compiled_en-US_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_en-XB_json",
+      "files": [
+        "app_translations_compiled_en-XB_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_es-MX_json",
+      "files": [
+        "app_translations_compiled_es-MX_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_fr-FR_json",
+      "files": [
+        "app_translations_compiled_fr-FR_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_it-IT_json",
+      "files": [
+        "app_translations_compiled_it-IT_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_ja-JP_json",
+      "files": [
+        "app_translations_compiled_ja-JP_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_ko-KR_json",
+      "files": [
+        "app_translations_compiled_ko-KR_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_pt-BR_json",
+      "files": [
+        "app_translations_compiled_pt-BR_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_zh-CN_json",
+      "files": [
+        "app_translations_compiled_zh-CN_json.js"
+      ]
+    },
+    {
+      "id": "app_translations_compiled_zh-TW_json",
+      "files": [
+        "app_translations_compiled_zh-TW_json.js"
+      ]
+    },
+    {
+      "id": "_1242",
+      "files": [
+        "_1242.js"
+      ]
+    },
+    {
+      "id": "_e655",
+      "files": [
+        "_e655.js"
+      ]
+    },
+    {
+      "id": "pages-home",
+      "files": [
+        "pages-home.js"
+      ]
+    },
+    {
+      "id": "pages-login",
+      "files": [
+        "pages-login.js"
+      ]
+    },
+    {
+      "id": "capgemini-content-assets-content-search",
+      "files": [
+        "capgemini-content-assets-content-search.js"
+      ]
+    },
+    {
+      "id": "capgemini-content-assets-content-details",
+      "files": [
+        "capgemini-content-assets-content-details.js"
+      ]
+    },
+    {
+      "id": "pages-registration",
+      "files": [
+        "pages-registration.js"
+      ]
+    },
+    {
+      "id": "pages-reset-password",
+      "files": [
+        "pages-reset-password.js"
+      ]
+    },
+    {
+      "id": "pages-account",
+      "files": [
+        "pages-account.js"
+      ]
+    },
+    {
+      "id": "pages-cart",
+      "files": [
+        "pages-cart.js"
+      ]
+    },
+    {
+      "id": "pages-checkout",
+      "files": [
+        "pages-checkout.js"
+      ]
+    },
+    {
+      "id": "pages-checkout-confirmation",
+      "files": [
+        "pages-checkout-confirmation.js"
+      ]
+    },
+    {
+      "id": "pages-login-redirect",
+      "files": [
+        "pages-login-redirect.js"
+      ]
+    },
+    {
+      "id": "pages-product-detail",
+      "files": [
+        "pages-product-detail.js"
+      ]
+    },
+    {
+      "id": "pages-product-list",
+      "files": [
+        "pages-product-list.js"
+      ]
+    },
+    {
+      "id": "pages-account-wishlist",
+      "files": [
+        "pages-account-wishlist.js"
+      ]
+    },
+    {
+      "id": "pages-page-not-found",
+      "files": [
+        "pages-page-not-found.js"
+      ]
+    },
+    {
+      "id": "vendor",
+      "files": [
+        "vendor.js"
+      ]
+    },
+    {
+      "id": "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1",
+      "files": [
+        "app_components_item-variant_item-attributes_jsx-app_components_item-variant_item-image_jsx-ap-c1a2e1.js"
+      ]
+    },
+    {
+      "id": "app_partials_product-view_index_jsx",
+      "files": [
+        "app_partials_product-view_index_jsx.js"
+      ]
+    },
+    {
+      "id": "app_components_order-summary_index_jsx",
+      "files": [
+        "app_components_order-summary_index_jsx.js"
+      ]
+    },
+    {
+      "id": "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c",
+      "files": [
+        "app_components_confirmation-modal_index_jsx-app_components_product-item_index_jsx-app_compone-5d0c1c.js"
+      ]
+    },
+    {
+      "id": "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc",
+      "files": [
+        "app_components_action-card_index_jsx-app_components_address-display_index_jsx-app_components_-47eafc.js"
+      ]
+    }
+  ]
+}
